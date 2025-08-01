@@ -1,40 +1,61 @@
-# 👋 Olá, eu sou o Elias Nascimento
+<!-- Cartão Interativo de Apresentação -->
 
-Sou apaixonado por tecnologia, atualmente estudando **Administração** e explorando áreas como:
+<div align="center">
 
-- 💻 Programação (Python, JavaScript)
-- 📊 Análise de Dados
-- ☁️ Computação em Nuvem
+# 🎯 Elias Nascimento
 
----
-
-## 🚀 Minhas estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasnascimentoo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnascimentoo&layout=compact)
+📍 *Brasil · Estudante de tudo aquilo que pode ser Inovador*  
+🧠 *Apaixonado por tecnologia, dados e inovação*
 
 ---
 
-## 🌱 Atualmente aprendendo
+### 💼 O que eu faço?
 
-- Fundamentos da AWS
-- Git e GitHub
-- Lógica de programação
-- Dados (Power Bi)
-- Bando de dados
+🎓 Atualmente:
+- Curso Técnico em Contabilidade
+- Sou formado em Análise e desenvolvimento de Sistemas e Técnico em Informática
+- Estudando Análise de Dados, Cloud e Git
 
----
-
-## 🤝 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnascimentoo)](https://www.linkedin.com/in/eliasnascimentoo)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elias.andrade/)
----
-
-## 📌 Repositórios em destaque
-
-- [💡 dio-lab-open-source](https://github.com/eliasnascimentoo/dio-lab-open-source)
+📈 Meus focos:
+- Python, MySQL & Power BI  
+- Produtividade com ferramentas digitais  
+- Projetos com propósito (TCC real, github organizado, etc.)
 
 ---
 
-## ✨ Obrigado por visitar meu perfil!
+### 🚀 Minha jornada
+
+📚 2023: Início do Técnico em Informática
+💡 2024: Inicio da Graduação
+🌐 2025: Open Source com a DIO 🚀
+
+
+---
+
+### 📊 Stats e insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasnascimentoo&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnascimentoo&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🔗 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/@elias.andrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias.andrade/)  
+[![LinkedIn](https://img.shields.io/badge/Elias%20Nascimento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasnascimentoo)
+
+---
+
+### 🧩 Curiosidades
+
+- 🚫 Odeio código sem indentação
+- 🧠 Sempre tento automatizar o que é repetitivo
+- 📸 Tenho facilidades em atuar e criar projetos.
+
+---
+
+### ✨ Spoiler do futuro?
+
+> “Um dia ainda vou olhar pra esse GitHub e dizer: ‘foi aqui que tudo começou’.”
+
+</div>
